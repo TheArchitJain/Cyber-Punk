@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <cmath>
+#include <vector>
 
 // Shashwat Jain
 
@@ -164,7 +165,6 @@ void fileDecrypt(string input, string output)
                     }
                 }
                 morseLetter = "";
-                
             }
         }
         cout << "\n";
